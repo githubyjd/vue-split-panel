@@ -14,14 +14,14 @@
 ## 1. npm 安装插件:
 
 ```
-npm install -S @yjd/vue-split-panel
+npm install -S vue-split-panel-ts
 ```
 
 ## 2. script 引入挂载:
 
 ```
 <script setup lang="ts">
-import SplitPanel from "@yjd/vue-split-panel/SplitPanel.vue";
+import SplitPanel from "vue-split-panel-ts/SplitPanel.vue";
 </script>
 ```
 
