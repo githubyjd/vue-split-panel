@@ -1,0 +1,25 @@
+{
+  "name": "@yjd/vue-split-panel",
+  "version": "1.0.0",
+  "description": "split panel vue3 ts 面板分割",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubyjd/split-panel-vue3-ts.git"
+  },
+  "keywords": [
+    "vue",
+    "split",
+    "panel",
+    "vue3",
+    "ts",
+    "面板分割",
+    "拖拽",
+    "大小"
+  ],
+  "author": "66085206@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/githubyjd/split-panel-vue3-ts/issues"
+  },
+  "homepage": "https://github.com/githubyjd/split-panel-vue3-ts#readme"
+}
